@@ -4,7 +4,8 @@
 [![Email](https://img.shields.io/badge/email-leonardo.lunario@proton.me-green?logo=gmail&logoColor=white)](mailto:leonardo.lunario@proton.me)
 [![Email](https://img.shields.io/badge/email-leonardolunario@gmail.com-green?logo=gmail&logoColor=white)](mailto:leonardolunario@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=lvlunario&color=blue)
-[Avatar]https://multiavatar.com/2c5eb006f7e96f6364
+<img src="https://multiavatar.com/2c5eb006f7e96f6364.svg" width="120" height="120" alt="Leonardo Lunario Avatar" />
+
 
 ---
 
@@ -16,7 +17,7 @@ I'm an engineer, project manager, and lifelong learner passionate about technolo
 - **Project Management Professional (PMP)** | **Remote Pilot in Command**  
 - **Self-employed real estate owner** in Maui & the Philippines  
 
-My journey has taken me from unmanned aerospace systems, to satellite space systems, to advancing renewable energy delivery across the state. Now, I’m building my own portfolio of technical and entrepreneurial projects.
+My journey has taken me from unmanned aerospace systems, to space systems, to advancing renewable energy delivery across the state. Now, I’m building my own portfolio of technical and entrepreneurial projects.
 
 ---
 
@@ -35,21 +36,21 @@ My journey has taken me from unmanned aerospace systems, to satellite space syst
 
 - **Personal Portfolio Site**: Central hub for my work and experiments
 - **Technical Blog**: My journey in Quantum Software Engineering, Project Management, Full Stack, Data Science
-- **Real Estate Listing Site**: Properties, travel info, tips, direct booking (think Airbnb with a personal touch)
-- **Flight Reports Generation Tool**: Visualizes unmanned mission routes & subsystem status
-- **Test Automation Scripts**: Interactive system-level testing & measurement prompts
+- **Real Estate Listing Site**: Think Airbnb with a soul
+- **Flight Reports Generation Tool**: Mission mapping & subsystem status
+- **Test Automation Scripts**: Interactive system-level testing
 - **Energy Management Report Generator**: Tracks renewable generation & grid impacts
-- **Generative AI Projects**: Modern full-stack + AI/ML learning
-- **Stock & Options Analysis Tool**: Web app for investment analysis
-- **Quantum Software Engineering Demos**: Showcasing progress in this field
-- **Data Science Explorations**: Python, R, and more
+- **Generative AI Projects**: Full-stack meets machine learning
+- **Stock & Options Analysis Tool**: Web-based investment sandbox
+- **Quantum Software Engineering Demos**: Early experiements in quantum programming
+- **Data Science Explorations**: Python, R, curiosity
 
 ---
 
 ## 📚 Always Learning
 
-I love exploring new fields, from quantum computing to the latest in project management.  
-Keeping my PMP license up-to-date and expanding my horizons with each project.
+Keeping my PMP current and chasing curiosity through every rabbit hole from quantum mechanics to API architecture.  
+Because if you're not learning, you're probably just scrolling.
 
 ---
 
@@ -62,10 +63,14 @@ Keeping my PMP license up-to-date and expanding my horizons with each project.
 
 ## 💡 Fun Fact & Hobbies
 
-**Motto:** _Ostinato rigore_ (“persistent rigor”)  
-👨‍👩‍👧‍👦 Family Man – One amazing wife, three kids, and a daily reminder that chaos is nature’s way of saying “You’re not in control.” 
-**Active lifestyle**: Rowerg, running, weight-lifting, hiking, basketball  
-**Passions**: 3D printing, flying drones, and always learning something new
+👨‍👩‍👧‍👦 **Family Man:** – One amazing wife, three kids, and a daily reminder that chaos is nature’s way of saying “You’re not in control.” 
+🏃‍♂️ **Active lifestyle:** Rowerg, running, weight-lifting, hiking, and failing to dunk since 2003
+🛸 **Passions:** 3D printing, flying drones, sourdough and learning stuff nobody asked me to do
+
+🧠 **Motto:** _Ostinato rigore_ (“persistent rigor”)  
+
+🎤 **Quote (George Carlin):** 
+> *“The reason I talk to myself is because I’m the only one whose answers I accept.”*
 
 ---
 
