@@ -4,8 +4,7 @@
 [![Email](https://img.shields.io/badge/email-leonardo.lunario@proton.me-green?logo=gmail&logoColor=white)](mailto:leonardo.lunario@proton.me)
 [![Email](https://img.shields.io/badge/email-leonardolunario@gmail.com-green?logo=gmail&logoColor=white)](mailto:leonardolunario@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=lvlunario&color=blue)
-<!-- Suggest your own avatar! Example below. -->
-<!-- ![Avatar](https://multiavatar.com/api/LeonardoLunario.svg) -->
+[Avatar]https://multiavatar.com/2c5eb006f7e96f6364
 
 ---
 
@@ -64,7 +63,7 @@ Keeping my PMP license up-to-date and expanding my horizons with each project.
 ## 💡 Fun Fact & Hobbies
 
 **Motto:** _Ostinato rigore_ (“persistent rigor”)  
-**Family man** (three awesome kids!)  
+👨‍👩‍👧‍👦 Family Man – One amazing wife, three kids, and a daily reminder that chaos is nature’s way of saying “You’re not in control.” 
 **Active lifestyle**: Rowerg, running, weight-lifting, hiking, basketball  
 **Passions**: 3D printing, flying drones, and always learning something new
 
