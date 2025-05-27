@@ -52,16 +52,8 @@ My journey has taken me from unmanned aerospace systems, to space systems, to ad
 Keeping my PMP current and chasing curiosity through every rabbit hole from quantum mechanics to API architecture.  
 Because if you're not learning, you're probably just scrolling.
 
----
 
-## 🌏 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/leonardolunario)
-- 📧 [leonardo.lunario@proton.me](mailto:leonardo.lunario@proton.me) / [leonardolunario@gmail.com](mailto:leonardolunario@gmail.com)
-
----
-
-## 💡 Fun Fact & Hobbies
+## 💡 Life Outside the Code
 
 👨‍👩‍👧‍👦 **Family Man:** – One amazing wife, three kids, and a daily reminder that chaos is nature’s way of saying “You’re not in control.” 
 🏃‍♂️ **Active lifestyle:** Rowerg, running, weight-lifting, hiking, and failing to dunk since 2003
@@ -74,4 +66,12 @@ Because if you're not learning, you're probably just scrolling.
 
 ---
 
+## 🌏 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/leonardolunario)
+- 📧 [leonardo.lunario@proton.me](mailto:leonardo.lunario@proton.me) / [leonardolunario@gmail.com](mailto:leonardolunario@gmail.com)
+
+
 > “Never stop exploring, never stop building.”
+
+---
