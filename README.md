@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/email-leonardo.lunario@proton.me-green?logo=gmail&logoColor=white)](mailto:leonardo.lunario@proton.me)
 [![Email](https://img.shields.io/badge/email-leonardolunario@gmail.com-green?logo=gmail&logoColor=white)](mailto:leonardolunario@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=lvlunario&color=blue)
-<img src="./assets/avatar.svg" width="120" height="120" alt="Leonardo Lunario Avatar" />
+<img src="./assets/avatar.png" width="120" height="120" alt="Leonardo Lunario Avatar" />
 
 
 ---
