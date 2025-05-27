@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/email-leonardo.lunario@proton.me-green?logo=gmail&logoColor=white)](mailto:leonardo.lunario@proton.me)
 [![Email](https://img.shields.io/badge/email-leonardolunario@gmail.com-green?logo=gmail&logoColor=white)](mailto:leonardolunario@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=lvlunario&color=blue)
-<img src="https://multiavatar.com/2c5eb006f7e96f6364.svg" width="120" height="120" alt="Leonardo Lunario Avatar" />
+<img src="./assets/avatar.svg" width="120" height="120" alt="Leonardo Lunario Avatar" />
 
 
 ---
@@ -52,11 +52,14 @@ My journey has taken me from unmanned aerospace systems, to space systems, to ad
 Keeping my PMP current and chasing curiosity through every rabbit hole from quantum mechanics to API architecture.  
 Because if you're not learning, you're probably just scrolling.
 
+---
 
 ## 💡 Life Outside the Code
 
 👨‍👩‍👧‍👦 **Family Man:** – One amazing wife, three kids, and a daily reminder that chaos is nature’s way of saying “You’re not in control.” 
+
 🏃‍♂️ **Active lifestyle:** Rowerg, running, weight-lifting, hiking, and failing to dunk since 2003
+
 🛸 **Passions:** 3D printing, flying drones, sourdough and learning stuff nobody asked me to do
 
 🧠 **Motto:** _Ostinato rigore_ (“persistent rigor”)  
