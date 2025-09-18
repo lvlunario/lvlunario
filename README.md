@@ -56,12 +56,11 @@ A prototype booking website for family-owned rental properties, designed to prov
 
 ### Cockpit-Server
 This is a Django-based betting application for managing cockpit arena events. It includes interfaces for cashiers to place bets, operators to manage events, and a live totalizer display for the public.
-
 <br />
 [**</> Source Code**](https://github.com/lvlunario/cockpit-server)
 <br />
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ### Other Interests & Concepts
