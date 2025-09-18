@@ -30,22 +30,50 @@ My journey has taken me from unmanned aerospace systems, to space systems, to ad
 ![Data Science](https://img.shields.io/badge/Data%20Science-Explorer-brightgreen)
 ![Real Estate](https://img.shields.io/badge/Real%20Estate-Owner-lightgrey)
 
+## 🛠️ Featured Projects
+
+Here are a few projects I'm currently building and prototyping.
+
+### Personal Portfolio & Blog
+A central hub for my work, experiments, and articles on technology, finance, and personal growth.
+<br />
+[**🌐 Live Site**](https://leonardolunario.vercel.app/) | [**</> Source Code**](https://github.com/lvlunario/personal-portfolio)
+<br />
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+### LL Vacation Rentals
+A prototype booking website for family-owned rental properties, designed to provide a seamless user experience.
+<br />
+[**🌐 Live Site**](https://llvacationrental.vercel.app/) | [**</> Source Code**](https://github.com/lvlunario/my-rental-website)
+<br />
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### Cockpit-Server
+A back-end service designed for mission mapping, data processing, and generating flight reports for unmanned systems.
+<br />
+[**</> Source Code**](https://github.com/lvlunario/cockpit-server)
+<br />
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+
+### Other Interests & Concepts
+- **Test Automation Scripts**: Interactive system-level testing.
+- **Energy Management Report Generator**: Tracks renewable generation & grid impacts.
+- **Generative AI Projects**: Full-stack meets machine learning.
+- **Stock & Options Analysis Tool**: Web-based investment sandbox.
+- **Quantum Software Engineering**: Early experiments in quantum programming.
+- **Data Science Explorations**: Curiosity-driven analysis in Python and R.
+
 ---
 
-## 🛠️ Projects & Interests
-
-- **Personal Portfolio Site**: Central hub for my work and experiments
-- **Technical Blog**: My journey in Quantum Software Engineering, Project Management, Full Stack, Data Science
-- **Real Estate Listing Site**: Think Airbnb with a soul
-- **Flight Reports Generation Tool**: Mission mapping & subsystem status
-- **Test Automation Scripts**: Interactive system-level testing
-- **Energy Management Report Generator**: Tracks renewable generation & grid impacts
-- **Generative AI Projects**: Full-stack meets machine learning
-- **Stock & Options Analysis Tool**: Web-based investment sandbox
-- **Quantum Software Engineering Demos**: Early experiements in quantum programming
-- **Data Science Explorations**: Python, R, curiosity
-
----
 
 ## 📚 Always Learning
 
