@@ -55,7 +55,8 @@ A prototype booking website for family-owned rental properties, designed to prov
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ### Cockpit-Server
-A back-end service designed for mission mapping, data processing, and generating flight reports for unmanned systems.
+This is a Django-based betting application for managing cockpit arena events. It includes interfaces for cashiers to place bets, operators to manage events, and a live totalizer display for the public.
+
 <br />
 [**</> Source Code**](https://github.com/lvlunario/cockpit-server)
 <br />
@@ -63,8 +64,8 @@ A back-end service designed for mission mapping, data processing, and generating
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-
 ### Other Interests & Concepts
+- **GUI for Data Analysis of Flight Reports**: A back-end service designed for mission mapping, data processing, and generating flight reports for unmanned systems.
 - **Test Automation Scripts**: Interactive system-level testing.
 - **Energy Management Report Generator**: Tracks renewable generation & grid impacts.
 - **Generative AI Projects**: Full-stack meets machine learning.
